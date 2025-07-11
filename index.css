@@ -145,7 +145,7 @@ main section{
 
  }
  .footer-colum{
-   width:50px; 
+   width:100%px; 
    display: block
  }
  footer input[type="text"], footer input[type="email" ] footer textarea{
@@ -158,3 +158,4 @@ main section{
     margin-bottom: 24px;
     border: none;
  }
+ 
